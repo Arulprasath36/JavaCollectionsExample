@@ -13,6 +13,9 @@ public class ArrayListExample {
 	 * ArraList and vector implements RandomAccess, Serializable and Cloneable Interfaces
 	 * Synchronized-> No
 	 * Thread safe-> NO
+	 * Default capacity-10
+	 * Fill Ratio or Load factor:1 or 100%
+	 * Growth Rate: current_size + current_size/2
 	 */
 	public void arrayListExample(){
 
