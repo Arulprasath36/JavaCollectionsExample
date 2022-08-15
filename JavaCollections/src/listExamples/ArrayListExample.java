@@ -163,7 +163,6 @@ public class ArrayListExample {
 		ArrayListExample example= new ArrayListExample();
 			example.arrayListExample();
 		//example.syncArrayListExample();
-
 	}
-
 }
+//murali
