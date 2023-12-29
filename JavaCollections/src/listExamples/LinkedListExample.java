@@ -170,5 +170,16 @@ public class LinkedListExample {
 		linkedListExample.iterateUsingWhile();
 		linkedListExample.iterateUsingIterator();
 	}
+	public static void main(String[] args) {
+                  List<Integer>l = new ArrayList<Integer>();
+		  l.add(10);
+		  l.add(20);
+		  l.add(30);
+		  l.add(40);
+		  l.add(50);
+		System.out.println(l);
+		System.out.println(l.add(60));
+		System.out.println(l);
+	}
 
 }
